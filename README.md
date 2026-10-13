@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Adam 👋
 
-<!--
-**AdamDlubak/AdamDlubak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior .NET Developer & Technical Lead** from Wrocław, Poland – 8+ years building cloud solutions on **Microsoft Azure**.
 
-Here are some ideas to get you started:
+- 🔧 Hands-on with C#, .NET 10, ASP.NET Core, Blazor, EF Core
+- ☁️ Azure: Functions, Service Bus, Event Hubs, App Services, API Management, Entra ID
+- 📈 High-volume distributed systems, messaging and observability (OpenTelemetry)
+- 🤖 AI-assisted, spec-driven development with Claude Code and GitHub Copilot
+- 🎤 Co-organizer of [Wroc.NET](https://wrocnet.org) – Wrocław .NET community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my commercial work lives in private client repositories – here you'll find community and side projects.
+
+📫 [LinkedIn](https://www.linkedin.com/in/adamdlubak/) · adam.dlubak@gmail.com
